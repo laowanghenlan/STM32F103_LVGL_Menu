@@ -21,7 +21,7 @@
 #include "lv_port_indev.h"
 #include "app_menu.h"
 
-int main(void)//提交
+int main(void)//开花
 {
     BSP_SysTickInit();      /* 1ms 系统节拍 */
     BSP_LED_Init();
