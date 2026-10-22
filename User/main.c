@@ -21,7 +21,7 @@
 #include "lv_port_indev.h"
 #include "app_menu.h"
 
-int main(void)//你妈逼的111
+int main(void)//我爱你
 {
     BSP_SysTickInit();      /* 1ms 系统节拍 */
     BSP_LED_Init();
