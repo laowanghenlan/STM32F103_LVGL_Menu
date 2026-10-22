@@ -1,0 +1,12 @@
+.\bsp_key.o: ..\BSP\bsp_key.c
+.\bsp_key.o: ..\BSP\bsp_key.h
+.\bsp_key.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\bsp_key.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\bsp_key.o: D:\360Downloads\keil-32-51\ARM\ARMCC\Bin\..\include\stdint.h
+.\bsp_key.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\bsp_key.o: ..\User\stm32f10x_conf.h
+.\bsp_key.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\bsp_key.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\bsp_key.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\bsp_key.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\bsp_key.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h

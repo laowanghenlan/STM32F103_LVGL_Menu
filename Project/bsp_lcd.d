@@ -1,0 +1,13 @@
+.\bsp_lcd.o: ..\BSP\bsp_lcd.c
+.\bsp_lcd.o: ..\BSP\bsp_lcd.h
+.\bsp_lcd.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\bsp_lcd.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\bsp_lcd.o: D:\360Downloads\keil-32-51\ARM\ARMCC\Bin\..\include\stdint.h
+.\bsp_lcd.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\bsp_lcd.o: ..\User\stm32f10x_conf.h
+.\bsp_lcd.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\bsp_lcd.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\bsp_lcd.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\bsp_lcd.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\bsp_lcd.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\bsp_lcd.o: ..\BSP\bsp_sys.h

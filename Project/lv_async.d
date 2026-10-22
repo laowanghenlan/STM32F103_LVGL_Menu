@@ -1,0 +1,13 @@
+.\lv_async.o: ..\LVGL\lvgl\src\misc\lv_async.c
+.\lv_async.o: ..\LVGL\lvgl\src\misc\lv_async.h
+.\lv_async.o: ..\LVGL\lvgl\src\misc\lv_types.h
+.\lv_async.o: D:\360Downloads\keil-32-51\ARM\ARMCC\Bin\..\include\stdint.h
+.\lv_async.o: ..\LVGL\lvgl\src\misc\lv_mem.h
+.\lv_async.o: ..\LVGL\lvgl\src\misc\../lv_conf_internal.h
+.\lv_async.o: ..\LVGL\lvgl\src\misc\../lv_conf_kconfig.h
+.\lv_async.o: ..\LVGL\lvgl\src\misc\../../../lv_conf.h
+.\lv_async.o: D:\360Downloads\keil-32-51\ARM\ARMCC\Bin\..\include\stddef.h
+.\lv_async.o: D:\360Downloads\keil-32-51\ARM\ARMCC\Bin\..\include\string.h
+.\lv_async.o: ..\LVGL\lvgl\src\misc\lv_timer.h
+.\lv_async.o: ..\LVGL\lvgl\src\misc\../hal/lv_hal_tick.h
+.\lv_async.o: D:\360Downloads\keil-32-51\ARM\ARMCC\Bin\..\include\stdbool.h

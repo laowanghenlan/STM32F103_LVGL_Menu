@@ -1,0 +1,13 @@
+.\lv_lru.o: ..\LVGL\lvgl\src\misc\lv_lru.c
+.\lv_lru.o: ..\LVGL\lvgl\src\misc\lv_lru.h
+.\lv_lru.o: ..\LVGL\lvgl\src\misc\../lv_conf_internal.h
+.\lv_lru.o: D:\360Downloads\keil-32-51\ARM\ARMCC\Bin\..\include\stdint.h
+.\lv_lru.o: ..\LVGL\lvgl\src\misc\../lv_conf_kconfig.h
+.\lv_lru.o: ..\LVGL\lvgl\src\misc\../../../lv_conf.h
+.\lv_lru.o: ..\LVGL\lvgl\src\misc\lv_types.h
+.\lv_lru.o: D:\360Downloads\keil-32-51\ARM\ARMCC\Bin\..\include\stddef.h
+.\lv_lru.o: ..\LVGL\lvgl\src\misc\lv_math.h
+.\lv_lru.o: ..\LVGL\lvgl\src\misc\lv_mem.h
+.\lv_lru.o: D:\360Downloads\keil-32-51\ARM\ARMCC\Bin\..\include\string.h
+.\lv_lru.o: ..\LVGL\lvgl\src\misc\lv_assert.h
+.\lv_lru.o: ..\LVGL\lvgl\src\misc\lv_log.h
