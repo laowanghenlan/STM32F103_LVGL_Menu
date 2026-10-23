@@ -21,7 +21,7 @@
 #include "lv_port_indev.h"
 #include "app_menu.h"
 
-int main(void)//fake
+int main(void)//fgwsfwsf
 {
     BSP_SysTickInit();      /* 1ms 系统节拍 */
     BSP_LED_Init();
