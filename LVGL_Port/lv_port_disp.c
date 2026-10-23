@@ -1,5 +1,5 @@
 /**
- * LVGL 显示移植层 (LVGL v8.x)
+ * LVGL 显示移植层 (LVGL v8.x)11
  * C8T6 只有 20KB RAM, 显存缓冲取 240x10 像素 (4.8KB)
  */
 #include "lvgl.h"

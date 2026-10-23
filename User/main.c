@@ -21,7 +21,7 @@
 #include "lv_port_indev.h"
 #include "app_menu.h"
 
-int main(void)//勤勤
+int main(void)//拉拉秀
 {
     BSP_SysTickInit();      /* 1ms 系统节拍 */
     BSP_LED_Init();
